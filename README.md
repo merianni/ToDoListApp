@@ -2,6 +2,9 @@ Project Description:
 - To-Do List app made in SwiftUI
 
 Screenshots: 
+- View 1 ![image](https://github.com/user-attachments/assets/5143fef2-bec8-46ae-a3b5-e988ec529d26)
+- View 2 ![image](https://github.com/user-attachments/assets/08cba694-220b-4f2a-ac42-edee82c0d12b)
+- View 3 ![image](https://github.com/user-attachments/assets/ef207357-08f3-4172-b10e-46b3e8ea1423)
 
 Usage Instructions:
 - Press the '+' button to add a task
